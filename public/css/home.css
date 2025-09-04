@@ -1,0 +1,11 @@
+body {
+  background-color: #f8f9fa;
+  padding-top: 50px;
+}
+.card {
+  max-width: 700px;
+  margin: auto;
+}
+.btn-group button {
+  margin-right: 5px;
+}
